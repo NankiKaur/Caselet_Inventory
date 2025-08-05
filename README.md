@@ -38,9 +38,9 @@ cd retail-inventory-dashboard
 
 pip install -r requirements.txt
 
-Run the dashboard:
+#Run the dashboard:
 streamlit run dashboard.py
-
+---
 
 
 ## 📌 Author  

@@ -40,6 +40,7 @@ pip install -r requirements.txt
 
 #Run the dashboard:
 streamlit run dashboard.py
+```
 ---
 
 
